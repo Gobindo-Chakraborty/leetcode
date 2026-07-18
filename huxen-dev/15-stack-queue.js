@@ -1,3 +1,0 @@
-class Node {}
-
-class Stack {}
